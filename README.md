@@ -6,6 +6,14 @@ I'm **Prajoy** — a developer and student interested in software development, l
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js,git,bash,linux,androidstudio,blender" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,git,bash,linux" />
+  </a>
+</p>
+
+### 🥞 Currently Learning
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,androidstudio,js,ts" />
   </a>
 </p>
