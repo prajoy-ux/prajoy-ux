@@ -6,7 +6,7 @@ I'm **Prajoy** — a developer and student interested in software development, l
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,git,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,git,bash,linux" />
   </a>
 </p>
 
