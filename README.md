@@ -6,7 +6,7 @@ I'm **Prajoy** — a developer and student interested in software development, l
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,git,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,git,linux" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@ I'm **Prajoy** — a developer and student interested in software development, l
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,androidstudio,js,ts" />
+    <img src="https://skillicons.dev/icons?i=blender,androidstudio,js,ts,bash" />
   </a>
 </p>
 
