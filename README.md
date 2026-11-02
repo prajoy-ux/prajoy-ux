@@ -18,6 +18,3 @@ I'm **Prajoy** — a developer and student interested in software development, l
   </a>
 </p>
 
-<p align="left">
-  <img src="https://lanyard.cnrad.dev/api/1186214643480395796?theme=dark&bg=transparent&hideDiscrim=true" alt="Discord Status" />
-</p>
